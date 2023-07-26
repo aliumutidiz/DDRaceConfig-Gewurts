@@ -23,13 +23,7 @@ This is a configuration file for DDRace.
 - Y = Vote Yes: ``Votes "Yes" in the game.``
 - N = Vote No: ``Votes "No" in the game.``
 
-Note: The Rainbow skin in this configuration contains only dark gray and white colors.
-
-
-<!-- Alt başlık -->
-## Version
-
-Version 1.0.0 - ``Gewurts Edition*``
+**Note**: **The Rainbow skin in this configuration contains only dark gray and white colors.**
 
 <!-- Kullanım talimatları -->
 ## Usage
@@ -54,6 +48,11 @@ Version 1.0.0 - ``Gewurts Edition*``
 Join us on [Discord](https://discord.gg/UHgBk5r66T) for support and updates.
 
 [![Join us on Discord](https://img.shields.io/badge/-Join%20us%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UHgBk5r66T)
+
+<!-- Alt başlık -->
+## Version
+
+Version 1.0.0 - ``Gewurts Edition*``
 
 <!-- Kısa tanım -->
 ## About
