@@ -4,6 +4,28 @@
 <!-- Açıklama -->
 This is a configuration file for DDRace.
 
+## Config Features:
+
+- Keyboard Type - QWERT ENG: Sets the keyboard layout to QWERTY English.
+- Num0 = Reset Mods: ``Resets the mods.``
+- Num1 = Toggle Rainbow/Normal Mod: ``Toggles between the Rainbow skin (containing dark gray and white colors only) and the Normal skin.``
+- Num2 = Dummy connect: ``Initiates a dummy connection.``
+- Num3 = Dummy disconnect: ``Disconnects the dummy.``
+- Num4 = Hammer Fly: ``Enables the Hammer Fly feature.``
+- Num5 = Deep Fly: ``Enables the Deep Fly feature.``
+- Num6 = Hammer Fly + Deep Fly: ``Enables both the Hammer Fly and Deep Fly features.``
+- Num8 = Toggle Fps & Pred Visible: ``Toggles FPS and predator visibility.``
+- Num9 = Load/Unload Gewurts Emote: ``Loads or unloads Gewurts Emotes.``
+- Mouse 4 = ``Toggle Gores Mode: Toggles Gores Mode.``
+- Mouse 5 = ``Toggle Dyno Cam: Toggles Dyno Cam.``
+- L = Lock Team: ``Writing /lock``
+- G = Rocket Aim: ``Enables Rocket Aim feature.``
+- Y = Vote Yes: ``Votes "Yes" in the game.``
+- N = Vote No: ``Votes "No" in the game.``
+
+Note: The Rainbow skin in this configuration contains only dark gray and white colors.
+
+
 <!-- Alt başlık -->
 ## Version
 
