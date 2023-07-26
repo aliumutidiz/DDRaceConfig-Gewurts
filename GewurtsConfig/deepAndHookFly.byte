@@ -1,0 +1,8 @@
+echo |Dummy mod = Hmmer Fly + Deep Fly
+bind mouse1 "+fire"
+bind mouse2 "+hook"
+
+bind mouse1 "+fire; +toggle cl_dummy_hammer 1 0;"
+bind mouse2 "+hook; +toggle cl_dummy_hammer 1 0;"
+
+exec GewurtsConfig/always.byte

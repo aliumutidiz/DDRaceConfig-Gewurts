@@ -1,0 +1,6 @@
+echo |Dummy mod = Deep Fly
+bind mouse1 "+fire; player_color_body 0; player_color_feet 50"
+bind mouse2 "+hook; player_color_body 16777215; player_color_feet 16777215"
+bind mouse1 "+fire; +toggle cl_dummy_hammer 1 0;"
+
+exec GewurtsConfig/rainbowAlways.byte

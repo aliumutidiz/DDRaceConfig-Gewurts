@@ -1,0 +1,6 @@
+cl_showfps 0
+cl_showpred 0
+
+echo | Hide Fps & Pred
+
+bind kp_8 "exec GewurtsConfig/fpsandpred1.byte"

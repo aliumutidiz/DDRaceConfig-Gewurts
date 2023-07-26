@@ -1,0 +1,7 @@
+
+cl_showpred 1
+cl_showfps 0
+
+echo | Show Pred
+
+bind kp_8 "exec GewurtsConfig/fpsandpred3.byte"

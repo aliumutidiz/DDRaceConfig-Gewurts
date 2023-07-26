@@ -1,0 +1,11 @@
+exec GewurtsConfig/baslangic.cfg
+bind kp_9 "exec GewurtsConfig/unloadEmote.byte"
+
+echo | 
+echo | Loaded Gewurts Emote cfg
+echo |
+echo | Keys ;
+echo | up = change emote
+echo | down = say emote
+echo | 
+

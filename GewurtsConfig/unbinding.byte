@@ -1,0 +1,25 @@
+unbind kp_1
+unbind kp_2
+unbind kp_3
+unbind kp_4
+unbind kp_5
+unbind kp_6
+unbind kp_7
+unbind kp_8
+unbind kp_9
+unbind kp_0
+unbind space
+unbind a
+unbind d
+unbind space
+unbind mouse1
+unbind mouse2
+bind mouse1 "+fire"
+bind mouse2 "+hook"
+bind a "+left"
+bind d "+right"
+bind s "+showhookcoll"
+bind t "+show_chat; chat all;"
+bind space "+jump"
+bind mouse2 "+hook"
+bind mouse1 "+fire"

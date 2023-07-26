@@ -1,0 +1,30 @@
+exec GewurtsConfig/always.byte
+bind mouse4 "exec GewurtsConfig/goresOn.byte"
+
+exec GewurtsConfig/rocketsens.byte
+exec GewurtsConfig/always.byte
+
+bind mouse5 toggle cl_dyncam 1 0
+
+bind kp_2 dummy_connect
+bind kp_3 dummy_disconnect
+
+bind kp_0 "exec GewurtsConfig/reset.byte"
+bind kp_1 "exec GewurtsConfig/rainbowStart.byte; exec GewurtsConfig/rainbowOnMessage.byte"
+bind kp_4 "exec GewurtsConfig/hammerFly.byte"
+bind kp_5 "exec GewurtsConfig/deepFly.byte"
+bind kp_6 "exec GewurtsConfig/deepAndHookFly.byte"
+
+bind kp_7 "say /team 54; say /lock"
+bind kp_8 "exec GewurtsConfig/fpsandpred1.byte"
+bind kp_9 exec GewurtsConfig/loadEmote.byte
+
+bind l "say /lock"
+bind v "say /rescue"
+bind w "emote 1"
+bind y "vote yes"
+bind n "vote no"
+
+bind f "say What a Save!"
+
+bind e "+toggle cl_dummy_hammer 1 0"

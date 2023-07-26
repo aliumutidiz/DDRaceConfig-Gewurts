@@ -1,0 +1,31 @@
+exec GewurtsConfig/rainbowAlways.byte
+exec GewurtsConfig/rocketsens.byte
+
+bind mouse4 "exec GewurtsConfig/goresOn.byte"
+bind mouse5 toggle cl_dyncam 1 0
+
+bind a "+left; player_color_body 16777215; player_color_feet 16777215"
+bind d "+right; player_color_body 0; player_color_feet 50"
+
+bind kp_2 dummy_connect
+bind kp_3 dummy_disconnect
+
+bind kp_0 "exec GewurtsConfig/reset.byte"
+bind kp_1 "exec GewurtsConfig/start.byte; exec GewurtsConfig/rainbowOffMessage.byte"
+bind kp_4 "exec GewurtsConfig/rainbowHookFly.byte"
+bind kp_5 "exec GewurtsConfig/rainbowDeepFly.cfg"
+bind kp_6 "exec GewurtsConfig/rainbowHookAndDeepFly.cfg"
+
+bind kp_7 toggle cl_fat_skins 1 0
+bind kp_8 "exec GewurtsConfig/fpsandpred1.byte"
+
+
+bind l "say /lock"
+bind v "say /rescue"
+
+bind y "vote yes"
+bind n "vote no"
+
+bind f "say What a Save!"
+
+bind e "+toggle cl_dummy_hammer 1 0"

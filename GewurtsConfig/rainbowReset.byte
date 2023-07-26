@@ -1,0 +1,11 @@
+bind mouse1 "+fire"
+bind mouse2 "+hook"
+bind a "+left; player_color_body 16777215; player_color_feet 16777215"
+bind d "+right; player_color_body 0; player_color_feet 50"
+bind s "+showhookcoll"
+bind t "+show_chat; chat all;"
+bind space "+jump"
+bind mouse2 "+hook"
+bind mouse1 "+fire"
+
+echo | Mod = OFF (Rainbow Skin Working!)

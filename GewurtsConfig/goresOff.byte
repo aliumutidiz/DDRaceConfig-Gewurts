@@ -1,0 +1,5 @@
+bind mouse1 +fire
+bind mouse2 +hook
+bind mouse4 "exec GewurtsConfig/goresOn.byte"
+
+echo | Gores Mod OFF
